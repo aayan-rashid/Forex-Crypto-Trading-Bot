@@ -1,4 +1,4 @@
-# Forex-Trading-Bot
+# Forex/Crypto-Trading-Bot
 
 Description:
 - This is a simple Forex Currency Pairs and Crypto trading bot built in Python.
